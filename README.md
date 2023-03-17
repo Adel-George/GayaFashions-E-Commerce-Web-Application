@@ -3,7 +3,7 @@
 # E-Commerce Web Application
 This is a web-based e-commerce platform built using React JS. It allows users to browse products, add them to their shopping cart, and purchase items securely.
 #  Demo
-- https://taupe-boba-884f56.netlify.app/
+- https://gaya-fashion-e-commerce.netlify.app/
 
 ## Features:
 
