@@ -1,0 +1,19 @@
+
+#shop {
+    height: 55vh;
+    background-position: center center;
+    background-size: cover;
+  }
+  #faq {
+    height: 50vh;
+    background-size: cover;
+  }
+
+@media screen and (max-width: 992px) {
+    #shop {
+      height: 40vh;
+    }
+    #faq {
+      height: 36vh;
+    }
+  }

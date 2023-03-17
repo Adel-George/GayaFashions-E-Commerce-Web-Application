@@ -1,0 +1,36 @@
+.co-bg {
+  color: #999494;
+}
+.co-i {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+.i-show {
+  cursor: pointer;
+}
+.img-show{
+  transition: .5s ease opacity;
+}
+.img-line:hover .img-show{
+opacity: 1 !important;
+}
+.img-line:hover .co-i {
+  background-color: white;
+}
+.co-i:hover .i-show {
+  display: block !important;
+}
+.fs-sm {
+  font-size: 14px;
+}
+.imgIcon {
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+  }
+  .paddingImg {
+    top: 4px;
+    left: -2px;
+    padding: 8px 3px;
+  }

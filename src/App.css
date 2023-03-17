@@ -1,0 +1,27 @@
+.span-color {
+  width: 25px;
+  height: 25px;
+  background-color: #f2f2f2;
+}
+
+#search {
+  width: 97%;
+  left: 1.5%;
+  top: 94%;
+}
+
+.xmark{
+  left: 91%;
+  top: 20%;
+}
+#xmark{
+  left: 96%;
+}
+
+@media screen and (max-width: 992px) {
+
+  nav {
+    background-color:#f3f3f3!important;;
+  }
+
+}

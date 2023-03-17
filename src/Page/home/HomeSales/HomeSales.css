@@ -1,0 +1,12 @@
+.bg-color {
+  background-color: #c7ab62;
+}
+.img-hover img {
+  transition: transform 1s ease-in-out;
+}
+.img-hover:hover img {
+  transform: scale(1.1);
+}
+hr {
+  border-top: 1px solid #686868;
+}

@@ -1,0 +1,25 @@
+
+  input[type="range"] {
+    pointer-events: none;
+  }
+  input[type="range"]::-webkit-slider-thumb {
+    pointer-events: all;
+  }
+  #customRange2::-webkit-slider-runnable-track {
+    background-color: currentColor;
+  }
+  .form-range::-webkit-slider-runnable-track {
+    height: 5px;
+  }
+  .form-range:focus::-webkit-slider-thumb {
+    box-shadow: 0 0 0 1px #fff, 0 0 0 0.25rem rgba(0, 0, 0, 0.2);
+  }
+  .form-range::-webkit-slider-thumb {
+    width: 0.8rem;
+    height: 0.8rem;
+    background-color: white;
+    border: 1px black solid;
+  }
+  .form-range::-webkit-slider-thumb:active {
+    background-color: black;
+  }

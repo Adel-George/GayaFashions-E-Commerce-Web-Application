@@ -1,0 +1,41 @@
+#addCard {
+  border: none;
+}
+#addCard:hover {
+  background-color: rgba(0, 0, 0, 0.8) !important;
+}
+.i-hover:hover .i-show {
+  display: block !important;
+}
+#carouselExampleIndicators:hover .prev-icon {
+  background-color: #b9a16b;
+}
+
+#project .carousel-indicators [data-bs-target] {
+  width: 80px !important;
+  height: 80px !important;
+  border-radius: 0;
+  background-color: inherit;
+  text-indent: 0px !important;
+}
+.avatar-size{
+  width: 100px ;
+  height: 100px ;
+}
+
+#project .carousel-item{
+  width: 110%;
+}
+#liveAlertPlaceholder{
+  left: 5px;
+  top: -35px;
+}
+@media screen and (max-width: 992px) {
+
+  #project .row {
+    padding-top: 80px !important;
+  }
+  #project .col-2 {
+    padding: 30px 30px 0px 0px !important;
+  }
+}

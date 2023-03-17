@@ -1,0 +1,20 @@
+#cart-shopping{
+    background-color: #f2f2f2;
+    width: 100px;
+    height: 100px;
+  }
+  #card-item{
+    height: 85%;
+  }
+  
+  /* width */
+  #card-item::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  /* Handle */
+  #card-item::-webkit-scrollbar-thumb {
+    background: #e0dbdb; 
+    border-radius: 5px;
+  }
+  

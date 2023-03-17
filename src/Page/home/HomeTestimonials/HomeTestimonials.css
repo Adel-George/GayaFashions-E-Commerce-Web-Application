@@ -1,0 +1,9 @@
+#Testimonials{
+    background-color: #f1e8df ;
+}
+
+@media screen and (max-width: 992px) {
+    #Testimonials img{
+        width: 75% !important;
+    }
+  }

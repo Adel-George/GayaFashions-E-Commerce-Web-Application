@@ -1,0 +1,14 @@
+.Wishlist {
+    width: 120px;
+  }
+  .fa-trash-can:hover {
+    color: red;
+  }
+  .iHover{
+    width: 25px;
+    height: 25px;
+  }
+  .iHover:hover {
+    background-color: #f2f2f2;
+    border-radius: 50%;
+  }
