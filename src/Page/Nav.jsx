@@ -23,7 +23,6 @@ export default function Nav() {
     const collapseList  = document.querySelector(".collapse");
     collapseList.classList.replace("show","hide");
     collapseList.classList.remove("bg-light");
-    searchClearItem();
   }
 
   function searchNavigator(e){
